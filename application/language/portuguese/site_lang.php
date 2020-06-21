@@ -10,6 +10,10 @@ $lang['contacto'] = 'Contacte-nos';
 
 $lang['sobre_title'] = 'BEM-VINDO À NOSSA EMPRESA';
 $lang['info_sobre'] = '';
+$lang['info_footer'] = 'A Coreangol, Engenharia e Construção, Lda., foi constituída à 14 de Setembro de 2005, 
+como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Construção Civil, 
+Consultoria e Exploração de Inertes, nomeadamente, brita, tout venant, pó, 
+rachão, extração de rochas ornamentais de granito e Quartzo.';
 $lang['sobre_desc'] = '<p>
 A Coreangol, Engenharia e Construção, Lda., foi constituída à 14 de Setembro de 2005, 
 como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Construção Civil, 
@@ -80,3 +84,10 @@ gostaríamos de informar a VªExcia, a nossa firme intenção de participarmos n
 através de prestação de serviços nas distintas áreas, além do fornecimento de inertes, 
 que possuímos em grandes quantidades.
 </p>';
+
+$lang['servico'] = 'NOSSOS SERVIÇOS';
+$lang['servico_1'] = 'GESTÃO DA CONSTRUÇÃO';
+$lang['servico_2'] = 'RENOVAÇÃO';
+$lang['servico_3'] = 'ARQUITETURA';
+
+$lang['portfolio'] = 'Projectos';
