@@ -6,7 +6,12 @@
 <head>
 	<meta charset="utf-8">
 	<title><?= $title ?></title>
+	<meta name="keywords" content="helvan">
+	<meta name="description" content="">
+	<meta name="author" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="shortcut icon" href="<?=base_url('assets/')?>images/icon.png" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="<?=base_url('assets/')?>images/icon.png">
 	<link rel="stylesheet" href="<?= base_url('assets/') ?>custom-font/fonts.css"/>
 	<link rel="stylesheet" href="<?= base_url('assets/') ?>css/bootstrap.min.css"/>
 	<link rel="stylesheet" href="<?= base_url('assets/') ?>css/font-awesome.min.css"/>
@@ -74,7 +79,7 @@
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 					<i class="fa fa-bars"></i>
 				</button>
-				<a class="navbar-brand" href=""><img class="logo" src="<?= base_url('assets/') ?>images/logo.png"
+				<a class="navbar-brand" href=""><img class="logo" src="<?= base_url('assets/') ?>images/logo1.png"
 													 alt=""></a>
 			</div>
 			<div class="collapse navbar-collapse" id="navbar-menu">
