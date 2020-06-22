@@ -98,16 +98,16 @@
 	<div id="carousel" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
-				<img src="<?= base_url('assets/') ?>images/5.2.jpg" alt="Construction">
+				<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt="">
 			</div>
 			<div class="item">
-				<img src="<?= base_url('assets/') ?>images/6.1.jpg" alt="Construction">
+				<img src="<?= base_url('assets/images/6.1.jpg') ?>" alt="">
 			</div>
 			<div class="item">
-				<img src="<?= base_url('assets/') ?>images/6.2.jpg" alt="Construction">
+				<img src="<?= base_url('assets/images/6.2.jpg') ?>" alt="">
 			</div>
 			<div class="item">
-				<img src="<?= base_url('assets/') ?>images/8.2.jpg" alt="Construction">
+				<img src="<?= base_url('assets/images/8.2.jpg') ?>" alt="">
 			</div>
 		</div>
 		<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -132,28 +132,28 @@
 			</div>
 			<div class="col-lg-4 col-md-6 col-lg-offset-1">
 				<div class="row">
-					<a class="fancybox" href="<?= base_url('assets/') ?>images/10.3.jpg"
+					<a class="fancybox" href="<?= base_url('assets/images/10.3.jpg') ?>"
 					   data-fancybox-group="gallery">
 						<img src="<?= base_url('assets/') ?>images/10.3.jpg" alt=""/>
 					</a>
 				</div>
 				<div class="row">
 					<div class="col-lg-4 col-md-6">
-						<a class="fancybox" href="<?= base_url('assets/') ?>images/10.4.jpg"
+						<a class="fancybox" href="<?= base_url('assets/images/10.4.jpg') ?>"
 						   data-fancybox-group="gallery">
-							<img src="<?= base_url('assets/') ?>images/10.4.jpg" alt=""/>
+							<img src="<?= base_url('assets/images/10.4.jpg') ?>" alt=""/>
 						</a>
 					</div>
 					<div class="col-lg-4 col-md-6">
-						<a class="fancybox" href="<?= base_url('assets/') ?>images/10.5.jpg"
+						<a class="fancybox" href="<?= base_url('assets/images/10.5.jpg') ?>"
 						   data-fancybox-group="gallery">
 							<img src="<?= base_url('assets/') ?>images/10.5.jpg" alt=""/>
 						</a>
 					</div>
 					<div class="col-lg-4 col-md-6">
-						<a class="fancybox" href="<?= base_url('assets/') ?>images/10.6.jpg"
+						<a class="fancybox" href="<?= base_url('assets/images/10.6.jpg') ?>"
 						   data-fancybox-group="gallery">
-							<img src="<?= base_url('assets/') ?>images/10.6.jpg" alt=""/>
+							<img src="<?= base_url('assets/images/10.6.jpg') ?>" alt=""/>
 						</a>
 					</div>
 				</div>
@@ -201,7 +201,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/') ?>images/5.2.jpg" alt="<?= lang('servico') ?>"/>
+					<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt="<?= lang('servico') ?>"/>
 					<h3><?= lang('servico_1') ?></h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -210,7 +210,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/') ?>images/11.4.jpg" alt="<?= lang('servico') ?>"/>
+					<img src="<?= base_url('assets/images/11.4.jpg') ?>" alt="<?= lang('servico') ?>"/>
 					<h3><?= lang('servico_2') ?></h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -219,7 +219,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/') ?>images/5.3.jpg" alt="<?= lang('servico') ?>"/>
+					<img src="<?= base_url('assets/images/5.3.jpg') ?>" alt="<?= lang('servico') ?>"/>
 					<h3><?= lang('servico_3') ?></h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -247,7 +247,7 @@
 			<div class="grid-item grid-item--width2 grid-item--height2 buildings plumbing interior">
 				<img alt="" src="<?= base_url('assets/') ?>images/1.1.jpg">
 				<div class="portfolio_hover_area">
-					<a class="fancybox" href="<?= base_url('assets/') ?>images/1.1.jpg"
+					<a class="fancybox" href="<?= base_url('assets/images/1.1.jpg') ?>"
 					   data-fancybox-group="gallery">
 						<span class="fa fa-search"></span></a>
 				</div>

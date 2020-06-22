@@ -26,7 +26,7 @@ class Home extends CI_Controller
 			base_url('assets/images/10.2.jpg'),
 			base_url('assets/images/11.2.jpg'),
 			base_url('assets/images/12.2.jpg'),
-			base_url('assets/images/13.1.jpg'),
+			base_url('assets/images/4.5.png'),
 			base_url('assets/images/13.3.jpg')
 		);
 		$data['social'] = array(
