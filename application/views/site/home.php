@@ -201,7 +201,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt="<?= lang('servico') ?>"/>
+					<img src="<?= base_url('assets/images/5.2.png') ?>" alt="<?= lang('servico') ?>"/>
 					<h3><?= lang('servico_1') ?></h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -210,7 +210,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/11.4.jpg') ?>" alt="<?= lang('servico') ?>"/>
+					<img src="<?= base_url('assets/images/11.4.png') ?>" alt="<?= lang('servico') ?>"/>
 					<h3><?= lang('servico_2') ?></h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -219,7 +219,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.3.jpg') ?>" alt="<?= lang('servico') ?>"/>
+					<img src="<?= base_url('assets/images/5.3.png') ?>" alt="<?= lang('servico') ?>"/>
 					<h3><?= lang('servico_3') ?></h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -245,9 +245,9 @@
 			<div class="grid-sizer"></div>
 
 			<div class="grid-item grid-item--width2 grid-item--height2 buildings plumbing interior">
-				<img alt="" src="<?= base_url('assets/') ?>images/1.1.jpg">
+				<img alt="" src="<?= base_url('assets/') ?>images/1.1.png">
 				<div class="portfolio_hover_area">
-					<a class="fancybox" href="<?= base_url('assets/images/1.1.jpg') ?>"
+					<a class="fancybox" href="<?= base_url('assets/images/1.1.png') ?>"
 					   data-fancybox-group="gallery">
 						<span class="fa fa-search"></span></a>
 				</div>
