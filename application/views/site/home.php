@@ -98,7 +98,7 @@
 	<div id="carousel" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
-				<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt="">
+				<img src="<?= base_url('assets/images/5.2.png') ?>" alt="">
 			</div>
 			<div class="item">
 				<img src="<?= base_url('assets/images/6.1.jpg') ?>" alt="">
@@ -107,7 +107,7 @@
 				<img src="<?= base_url('assets/images/6.2.jpg') ?>" alt="">
 			</div>
 			<div class="item">
-				<img src="<?= base_url('assets/images/8.2.jpg') ?>" alt="">
+				<img src="<?= base_url('assets/images/8.2.png') ?>" alt="">
 			</div>
 		</div>
 		<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
