@@ -6,6 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<title><?= $title ?></title>
+	<meta charset="utf-8"/>
 	<meta name="keywords" content="helvan">
 	<meta name="description" content="">
 	<meta name="author" content="">
