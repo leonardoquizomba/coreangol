@@ -365,7 +365,7 @@
 		<p class="wow fadeInRight">
 			<?= $title ?> by
 			<a target="_blank" href="https://www.cykrotec.com">Cykrotec</a>
-			<?= date('Y') ?>. All Rights Reserved
+			2020. All Rights Reserved
 		</p>
 	</div><!-- Footer bottom end -->
 </footer><!-- Footer end -->
