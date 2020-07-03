@@ -7,9 +7,9 @@
 	<meta charset="utf-8">
 	<title><?= $title ?></title>
 	<meta charset="utf-8"/>
-	<meta name="keywords" content="helvan">
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="keywords" content="Coreangol, angola, luanda, empresa, Exploraçâo, Inertes, granitos, pavimentos, Engenharia, Construçâo, lda, brita, tout venant, pó, rachâo, extraçâo, rochas, ornamentais, granito, Quartzo">
+	<meta name="description" content="A Coreangol, Engenharia e Construçâo, Lda., foi constituída à 14 de Setembro de 2005, como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Construçâo Civil, Consultoria e Exploraçâo de Inertes, nomeadamente, brita, tout venant, pó, rachâo, extraçâo de rochas ornamentais de granito e Quartzo.">
+	<meta name="author" content="Coreangol">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="<?= base_url('assets/') ?>images/icon.png" type="image/x-icon"/>
 	<link rel="apple-touch-icon" href="<?= base_url('assets/') ?>images/icon.png">
@@ -103,9 +103,6 @@
 			</div>
 			<div class="item">
 				<img src="<?= base_url('assets/images/6.1.jpg') ?>" alt="">
-			</div>
-			<div class="item">
-				<img src="<?= base_url('assets/images/6.2.jpg') ?>" alt="">
 			</div>
 			<div class="item">
 				<img src="<?= base_url('assets/images/8.2.png') ?>" alt="">
@@ -352,10 +349,9 @@
 				<div class="footer_item">
 					<h4>Contate-nos</h4>
 					<ul class="list-unstyled footer_contact">
-						<li><a href=""><span class="fa fa-map-marker"></span> 124 Luanda, Angola</a></li>
-						<li><a href=""><span class="fa fa-envelope"></span> hello@example.com</a></li>
-						<li><a href=""><span class="fa fa-mobile"></span>
-								<p>+244 00 00 1234 <br/>+244 00 00 1234</p></a></li>
+						<li><a href=""><span class="fa fa-map-marker"></span> <?=$contactos['morada']?></a></li>
+						<li><a href=""><span class="fa fa-envelope"></span> <?=$contactos['email']?></a></li>
+						<li><a href=""><span class="fa fa-mobile"></span><?=$contactos['telefone']?></li>
 					</ul>
 				</div>
 			</div>

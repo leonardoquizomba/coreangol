@@ -38,9 +38,10 @@ class Home extends CI_Controller
 			'youtube' => '',
 		);
 		$data['contactos'] = array(
-			'email' => 'support@Construct.com',
+			'email' => 'hello@example.com',
 			'horario' => 'Seg - Sab 9:00 - 19:00',
-			'telefone' => '(+244) xxx xxx xxx',
+			'morada' => 'Rua Rainha Ginga n 35, 3 Andar<br/> Luanda, Angola',
+			'telefone' => '(+244) 222392601/332612',
 		);
 		$this->load->view('site/home', $data);
 	}
