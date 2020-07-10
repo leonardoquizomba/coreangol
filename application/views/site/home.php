@@ -48,7 +48,6 @@
 			<ul class="list-inline info">
 				<li><a href="#"><span class="fa fa-phone"></span> <?= $contactos['telefone'] ?></a></li>
 				<li><a href="#"><span class="fa fa-envelope"></span> <?= $contactos['email'] ?></a></li>
-				<li><a href="#"><span class="fa fa-clock-o"></span> <?= $contactos['horario'] ?></a></li>
 			</ul>
 			<ul class="list-inline social_icon">
 				<li><a href="<?= $social['facebook'] ?>" target="_blank"><span class="fa fa-facebook"></span></a></li>
@@ -339,6 +338,12 @@
 						<li><a href="#about"><span class="fa fa-play"></span><?= lang('sobre') ?></a>
 						<li><a href="#services"><span class="fa fa-play"></span><?= lang('servico') ?></a>
 						<li><a href="#portfolio"><span class="fa fa-play"></span><?= lang('portfolio') ?></a>
+						<li>
+							<a href="#portfolio">
+								<span class="fa fa-play"></span>
+								<a href="<?=base_url('assets/AGENDA-2019.pdf')?>" target="_blank">Agenda</a>
+							</a>
+						</li>
 					</ul>
 				</div>
 			</div>
