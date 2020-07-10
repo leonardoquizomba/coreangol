@@ -61,7 +61,7 @@ Na prov&iacute;ncia do Kwanza Norte, munic&iacute;pio do Dondo, povoa&ccedil;&ac
 </p>
 ';
 
-$lang['projectos'] = 'Projectos';
+$lang['projectos'] = 'projectos';
 $lang['projectos_desc'] = '
 <p>
 Dos Projectos j&aacute; realizados, destacamos a participa&ccedil;&acirc;o da nossa empresa na constru&ccedil;&acirc;o do Novo Centro de Conven&ccedil;&otilde;es de Talatona.
@@ -90,4 +90,4 @@ $lang['servico_1'] = 'GESTÃO DA CONSTRUÇÃO';
 $lang['servico_2'] = 'RENOVAÇÃO';
 $lang['servico_3'] = 'ARQUITETURA';
 
-$lang['portfolio'] = 'Projectos';
+$lang['portfolio'] = 'Portfolio';

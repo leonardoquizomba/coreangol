@@ -63,27 +63,41 @@ Disallow: /vendor/
 
 User-agent: Slurp
 Disallow: /application/
-Disallow: /assets/
 Disallow: /system/
 Disallow: /vendor/
 
 User-agent: teoma
 Disallow: /application/
-Disallow: /assets/
 Disallow: /system/
 Disallow: /vendor/
 
 User-agent: Twitterbot
 Disallow: /application/
-Disallow: /assets/
 Disallow: /system/
 Disallow: /vendor/
 
 User-agent: Yeti
 Disallow: /application/
-Disallow: /assets/
 Disallow: /system/
 Disallow: /vendor/
+
+User-agent: Googlebot
+Disallow: /application/
+Disallow: /system/
+Disallow: /vendor/
+Allow: /application/views/site/*
+
+User-agent: AdsBot-Google
+Disallow: /application/
+Disallow: /system/
+Disallow: /vendor/
+Allow: /application/views/site/*
+
+User-agent: Googlebot-Image
+Disallow: /application/
+Disallow: /system/
+Disallow: /vendor/
+Allow: /application/views/site/*
 
 User-agent: *
 Disallow: /

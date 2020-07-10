@@ -10,6 +10,7 @@
 	<meta name="keywords" content="Coreangol, angola, luanda, empresa, Exploraçâo, Inertes, granitos, pavimentos, Engenharia, Construçâo, lda, brita, tout venant, pó, rachâo, extraçâo, rochas, ornamentais, granito, Quartzo">
 	<meta name="description" content="A Coreangol, Engenharia e Construçâo, Lda., foi constituída à 14 de Setembro de 2005, como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Construçâo Civil, Consultoria e Exploraçâo de Inertes, nomeadamente, brita, tout venant, pó, rachâo, extraçâo de rochas ornamentais de granito e Quartzo.">
 	<meta name="author" content="Coreangol">
+	<meta name="google-site-verification" content="P-fINLBdu64qoXVGk80w1lW8GBBdR-vD5Qb9Tp1tB_E" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="<?= base_url('assets/') ?>images/icon.png" type="image/x-icon"/>
 	<link rel="apple-touch-icon" href="<?= base_url('assets/') ?>images/icon.png">
