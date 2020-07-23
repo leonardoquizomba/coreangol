@@ -28,22 +28,6 @@
 	<![endif]-->
 </head>
 <body>
-<div id="loading">
-	<div id="loading-center">
-		<div id="loading-center-absolute">
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-			<div class="object"></div>
-		</div>
-	</div>
-</div>
 <header>
 	<div class="top_nav">
 		<div class="container">
