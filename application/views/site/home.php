@@ -7,10 +7,12 @@
 	<meta charset="utf-8">
 	<title><?= $title ?></title>
 	<meta charset="utf-8"/>
-	<meta name="keywords" content="Coreangol, angola, luanda, empresa, Exploraçâo, Inertes, granitos, pavimentos, Engenharia, Construçâo, lda, brita, tout venant, pó, rachâo, extraçâo, rochas, ornamentais, granito, Quartzo">
-	<meta name="description" content="A Coreangol, Engenharia e Construçâo, Lda., foi constituída à 14 de Setembro de 2005, como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Construçâo Civil, Consultoria e Exploraçâo de Inertes, nomeadamente, brita, tout venant, pó, rachâo, extraçâo de rochas ornamentais de granito e Quartzo.">
+	<meta name="keywords"
+		  content="Coreangol, angola, luanda, empresa, Exploraçâo, Inertes, granitos, pavimentos, Engenharia, Construçâo, lda, brita, tout venant, pó, rachâo, extraçâo, rochas, ornamentais, granito, Quartzo">
+	<meta name="description"
+		  content="A Coreangol, Engenharia e Construçâo, Lda., foi constituída à 14 de Setembro de 2005, como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Construçâo Civil, Consultoria e Exploraçâo de Inertes, nomeadamente, brita, tout venant, pó, rachâo, extraçâo de rochas ornamentais de granito e Quartzo.">
 	<meta name="author" content="Coreangol">
-	<meta name="google-site-verification" content="P-fINLBdu64qoXVGk80w1lW8GBBdR-vD5Qb9Tp1tB_E" />
+	<meta name="google-site-verification" content="P-fINLBdu64qoXVGk80w1lW8GBBdR-vD5Qb9Tp1tB_E"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="shortcut icon" href="<?= base_url('assets/') ?>images/icon.png" type="image/x-icon"/>
 	<link rel="apple-touch-icon" href="<?= base_url('assets/') ?>images/icon.png">
@@ -85,11 +87,11 @@
 			</div>
 			<div class="collapse navbar-collapse" id="navbar-menu">
 				<ul class="nav navbar-nav menu">
-					<li><a href="<?=base_url()?>"><?= lang('home') ?></a></li>
-					<li><a href="#about"><?= lang('sobre') ?></a></li>
-					<li><a href="#services"><?= lang('servico') ?></a></li>
-					<li><a href="#portfolio"><?= lang('portfolio') ?></a></li>
-					<li><a href="#contact_form"><?= lang('contacto') ?></li>
+					<li><a href="<?= base_url() ?>">Home</a></li>
+					<li><a href="#about">Sobre</a></li>
+					<li><a href="#services">Servico</a></li>
+					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="#contact_form">Contacte-nos</li>
 				</ul>
 			</div>
 		</div>
@@ -123,9 +125,25 @@
 		<div class="row">
 			<div class="col-lg-7 col-md-6">
 				<div class="about_content">
-					<h2><?= lang('sobre_title') ?></h2>
-					<h3><?= lang('info_sobre') ?></h3>
-					<?= lang('sobre_desc') ?>
+					<h2>BEM-VINDO À NOSSA EMPRESA</h2>
+					<h3></h3>
+					<p>
+						A Coreangol, Engenharia e Constru&ccedil;&acirc;o, Lda., foi constitu&iacute;da &agrave; 14 de
+						Setembro de 2005,
+						como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Constru&ccedil;&acirc;o
+						Civil,
+						Consultoria e Explora&ccedil;&acirc;o de Inertes, nomeadamente, brita, tout venant, p&oacute;,
+						rach&acirc;o, extra&ccedil;&acirc;o de rochas ornamentais de granito e Quartzo.</p>
+					<p>A nossa empresa vem conquistando no mercado angolano uma forte presen&ccedil;a na &aacute;rea de
+						constru&ccedil;&acirc;o civil, pois,
+						mereceu confian&ccedil;a de Contratantes locais de prest&iacute;gio, nomeadamente a Sonangol que
+						confiou &agrave; esta sociedade o estudo,
+						realiza&ccedil;&acirc;o e constru&ccedil;&acirc;o de alguns projectos tais como, novas sedes
+						regionais daquela concessionaria Nacional de Petr&oacute;leo,
+						no Soyo e em Cabinda e de algum tempo a esta parte, temos estado envolvidos em concursos
+						relativos a v&aacute;rios projectos
+						de m&eacute;dia e grande dimens&acirc;o com outras organiza&ccedil;&otilde;es empresariais
+						angolanas.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-lg-offset-1">
@@ -164,30 +182,56 @@
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<div class="head_title">
-					<h2><?= lang('detalhes_Servico') ?></h2>
-					<?= lang('detalhes_Servico_2') ?>
+					<h2>PORQUE ESCOLHER-NOS ?</h2>
+					<p>Apostamos em conquistar o mercado angolano, porque nos dispomos de t&eacute;cnicos coreanos,
+						chineses e tamb&eacute;m angolanos, altamente qualificados nas &aacute;reas de constru&ccedil;&acirc;o
+						e explora&ccedil;&acirc;o de inertes,
+						tendo como principais trunfos a agressividade, fiabilidade, avan&ccedil;o tecnol&oacute;gico,
+						rapidez na execu&ccedil;&acirc;o dos trabalhos,
+						com n&iacute;veis de custos altamente competitivos que caracterizam as melhores ind&uacute;strias
+						e tecnologias.
+						Temos como um dos nossos principais clientes a empresa Mota Engil.</p>
+					<p>
+						Possu&iacute;mos Unidades de Produ&ccedil;&acirc;o distribu&iacute;das em quatro prov&iacute;ncias
+						do pa&iacute;s onde extra&iacute;mos quantidades enormes de inertes da melhor qualidade.
+					</p>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
 				<div class="why_us_item">
-					<?= lang('detalhes_Servico_info_1') ?>
+					<p>
+						Na prov&iacute;ncia do Zaire, munic&iacute;pio do N´zeto, comuna da Musserra, temos uma Unidade
+						de Produ&ccedil;&acirc;o para extra&ccedil;&acirc;o e
+						transforma&ccedil;&acirc;o de granito e produzimos mosaicos, lages e cubos para cal&ccedil;ados
+						e uma outra no munic&iacute;pio do Tomboco,
+						povoa&ccedil;&acirc;o do Diambo, para extra&ccedil;&acirc;o de granito (gnaisse)
+					</p>
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-6">
 				<div class="why_us_item">
-					<?= lang('detalhes_Servico_info_2') ?>
+					<p>
+						Na Prov&iacute;ncia do Bengo, temos duas Unidades de Produ&ccedil;&acirc;o de granito (gnaisse).
+					</p>
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-6">
 				<div class="why_us_item">
-					<?= lang('detalhes_Servico_info_3') ?>
+					<p>
+						Na Prov&iacute;ncia de Benguela, munic&iacute;pio do Lobito, comuna da Canjala,
+						temos uma Unidade de Produ&ccedil;&acirc;o onde exploramos e exportamos de quartzo.
+					</p>
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-6">
 				<div class="why_us_item">
-					<?= lang('detalhes_Servico_info_4') ?>
+					<p>
+						Na prov&iacute;ncia do Kwanza Norte, munic&iacute;pio do Dondo, povoa&ccedil;&acirc;o da Aldeia
+						Nova,
+						temos uma unidade de Produ&ccedil;&acirc;o onde tamb&eacute;m exploramos granito
+					</p>
 				</div>
 			</div>
 		</div>
@@ -195,12 +239,12 @@
 </section><!-- Why us end -->
 <section id="services">
 	<div class="container">
-		<h2><?= lang('servico') ?></h2>
+		<h2>Nossos Servi&ccedil;os</h2>
 		<div class="row">
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.2.png') ?>" alt="<?= lang('servico') ?>"/>
-					<h3><?= lang('servico_1') ?></h3>
+					<img src="<?= base_url('assets/images/5.2.png') ?>" alt=""/>
+					<h3>GESTÃO DA CONSTRUÇÃO</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 						ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
@@ -208,8 +252,8 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/11.4.png') ?>" alt="<?= lang('servico') ?>"/>
-					<h3><?= lang('servico_2') ?></h3>
+					<img src="<?= base_url('assets/images/11.4.png') ?>" alt=""/>
+					<h3>RENOVAÇÃO</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 						ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
@@ -217,8 +261,8 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.3.png') ?>" alt="<?= lang('servico') ?>"/>
-					<h3><?= lang('servico_3') ?></h3>
+					<img src="<?= base_url('assets/images/5.3.png') ?>" alt=""/>
+					<h3>ARQUITETURA</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 						ipsum quia dolor sit amet, consectetur, adipisci velit,</p>
@@ -229,7 +273,7 @@
 </section><!-- Services end -->
 <section id="portfolio">
 	<div class="container portfolio_area text-center">
-		<h2><?= lang('portfolio') ?></h2>
+		<h2>Portfolio</h2>
 		<!--
 		<div id="filters">
 			<button class="button is-checked" data-filter="*">Mostre tudo</button>
@@ -265,27 +309,48 @@
 </section>
 <section id="testimonial">
 	<div class="container text-center testimonial_area">
-		<h2><?= lang('projectos') ?></h2>
-		<?= lang('projectos_desc') ?>
+		<h2>Projectos</h2>
+		<p>
+			Dos Projectos j&aacute; realizados, destacamos a participa&ccedil;&acirc;o da nossa empresa na constru&ccedil;&acirc;o
+			do Novo Centro de Conven&ccedil;&otilde;es de Talatona.
+		</p>
 		<div class="row">
 			<div class="col-md-4">
 				<div class="testimonial_item">
 					<div class="testimonial_content text-left">
-						<?= lang('projectos_info_1') ?>
+						<p>
+							Fornecemos material (inertes) a empresa Mota Engil, para as Obras de reabilita&ccedil;&acirc;o
+							da Estrada de Cacuaco ao
+							Nzeto e tamb&eacute;m material para a cal&ccedil;ada da Ilha de Luanda.
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="testimonial_item">
 					<div class="testimonial_content">
-						<?= lang('projectos_info_2') ?>
+						<p>
+							Num Projecto do Comando Geral da Pol&iacute;cia Nacional, (Minist&eacute;rio do Interior da
+							Rep&uacute;blica de Angola), executamos em Luanda,
+							a extens&acirc;o da Rede Provincial do Sistema de V&iacute;deo Vigilância onde conclu&iacute;mos
+							a 1ª fase em Mar&ccedil;o passado,
+							sendo implementada a 2º e &uacute;ltima fase, brevemente.
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="testimonial_item">
 					<div class="testimonial_content">
-						<?= lang('projectos_info_3') ?>
+						<p>
+							Tendo chegado ao nosso conhecimento, que o Governo, projectou a constru&ccedil;&acirc;o e
+							repara&ccedil;&acirc;o de estradas &aacute; n&iacute;vel nacional,
+							gostar&iacute;amos de informar a VªExcia, a nossa firme inten&ccedil;&acirc;o de
+							participarmos nesse projecto,
+							atrav&eacute;s de presta&ccedil;&acirc;o de servi&ccedil;os nas distintas &aacute;reas, al&eacute;m
+							do fornecimento de inertes,
+							que possu&iacute;mos em grandes quantidades.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -319,8 +384,15 @@
 		<div class="row">
 			<div class="col-lg-4 col-sm-7">
 				<div class="footer_item">
-					<img class="logo" src="<?= base_url('assets/') ?>images/logo1.png" alt="<?=$title?>"/>
-					<p><?= lang('info_footer') ?></p>
+					<img class="logo" src="<?= base_url('assets/') ?>images/logo1.png" alt="<?= $title ?>"/>
+					<p>
+						A Coreangol, Engenharia e Constru&ccedil;&acirc;o, Lda., foi constitu&iacute;da &agrave; 14 de
+						Setembro de 2005,
+						como empresa de Direito Angolano sendo o objecto principal dentre outras actividades, a Constru&ccedil;&acirc;o
+						Civil,
+						Consultoria e Explora&ccedil;&acirc;o de Inertes, nomeadamente, brita, tout venant, p&oacute;,
+						rach&acirc;o, extra&ccedil;&acirc;o de rochas ornamentais de granito e Quartzo.
+					</p>
 
 					<ul class="list-inline footer_social_icon">
 						<li><a href=""><span class="fa fa-facebook"></span></a></li>
@@ -335,13 +407,13 @@
 				<div class="footer_item">
 					<h4>Explorar link</h4>
 					<ul class="list-unstyled footer_menu">
-						<li><a href="#about"><span class="fa fa-play"></span><?= lang('sobre') ?></a>
-						<li><a href="#services"><span class="fa fa-play"></span><?= lang('servico') ?></a>
-						<li><a href="#portfolio"><span class="fa fa-play"></span><?= lang('portfolio') ?></a>
+						<li><a href="#about"><span class="fa fa-play"></span>Sobre</a>
+						<li><a href="#services"><span class="fa fa-play"></span>Servico</a>
+						<li><a href="#portfolio"><span class="fa fa-play"></span>Portfolio</a>
 						<li>
 							<a href="#portfolio">
 								<span class="fa fa-play"></span>
-								<a href="<?=base_url('assets/AGENDA-2019.pdf')?>" target="_blank">Agenda</a>
+								<a href="<?= base_url('assets/AGENDA-2019.pdf') ?>" target="_blank">Agenda</a>
 							</a>
 						</li>
 					</ul>
@@ -355,9 +427,9 @@
 				<div class="footer_item">
 					<h4>Contate-nos</h4>
 					<ul class="list-unstyled footer_contact">
-						<li><a href=""><span class="fa fa-map-marker"></span> <?=$contactos['morada']?></a></li>
-						<li><a href=""><span class="fa fa-envelope"></span> <?=$contactos['email']?></a></li>
-						<li><a href=""><span class="fa fa-mobile"></span><?=$contactos['telefone']?></li>
+						<li><a href="https://goo.gl/maps/ALuEYZCnvNsbZQts8" target="_blank"><span class="fa fa-map-marker"></span> <?= $contactos['morada'] ?></a></li>
+						<li><a href="javascript:;"><span class="fa fa-envelope"></span> <?= $contactos['email'] ?></a></li>
+						<li><a href="javascript:;"><span class="fa fa-mobile"></span><?= $contactos['telefone'] ?></li>
 					</ul>
 				</div>
 			</div>
