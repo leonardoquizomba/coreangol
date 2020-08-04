@@ -104,9 +104,6 @@
 				<img src="<?= base_url('assets/images/5.2.png') ?>" alt="">
 			</div>
 			<div class="item">
-				<img src="<?= base_url('assets/images/6.1.jpg') ?>" alt="">
-			</div>
-			<div class="item">
 				<img src="<?= base_url('assets/images/8.2.png') ?>" alt="">
 			</div>
 		</div>
