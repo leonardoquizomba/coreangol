@@ -12,13 +12,11 @@ class Home extends CI_Controller
 	{
 		$data['title'] = 'Coreangol';
 		$data['portfolios'] = array(
-			base_url('assets/images/2.1.png'),
 			base_url('assets/images/2.2.png'),
 			base_url('assets/images/2.4.png'),
 			base_url('assets/images/2.5.png'),
 			base_url('assets/images/3.1.png'),
 			base_url('assets/images/3.2.png'),
-			base_url('assets/images/3.3.png'),
 			base_url('assets/images/4.2.png'),
 			base_url('assets/images/4.4.png'),
 			base_url('assets/images/4.6.jpg'),
@@ -26,12 +24,6 @@ class Home extends CI_Controller
 			base_url('assets/images/6.1.jpg'),
 			base_url('assets/images/7.1.png'),
 			base_url('assets/images/7.2.png'),
-			base_url('assets/images/6.5.jpg'),
-			base_url('assets/images/10.2.png'),
-			base_url('assets/images/11.2.png'),
-			base_url('assets/images/12.2.png'),
-			base_url('assets/images/4.5.png'),
-			base_url('assets/images/13.3.png')
 		);
 		$data['social'] = array(
 			'facebook' => '',
@@ -42,7 +34,7 @@ class Home extends CI_Controller
 			'youtube' => '',
 		);
 		$data['contactos'] = array(
-			'email' => 'hello@example.com',
+			'email' => 'geral@coreangol.co.ao',
 			'horario' => 'Seg - Sab 9:00 - 19:00',
 			'morada' => 'Rua Rainha Ginga n 35, 3 Andar<br/> Luanda, Angola',
 			'telefone' => '(+244) 222392601/332612',

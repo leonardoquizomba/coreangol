@@ -28,6 +28,22 @@
 	<![endif]-->
 </head>
 <body>
+<div id="loading">
+	<div id="loading-center">
+		<div id="loading-center-absolute">
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+			<div class="object"></div>
+		</div>
+	</div>
+</div>
 <header>
 	<div class="top_nav">
 		<div class="container">
@@ -269,15 +285,6 @@
 		-->
 		<div class="grid">
 			<div class="grid-sizer"></div>
-
-			<div class="grid-item grid-item--width2 grid-item--height2 buildings plumbing interior">
-				<img alt="" src="<?= base_url('assets/') ?>images/1.1.png">
-				<div class="portfolio_hover_area">
-					<a class="fancybox" href="<?= base_url('assets/images/1.1.png') ?>"
-					   data-fancybox-group="gallery">
-						<span class="fa fa-search"></span></a>
-				</div>
-			</div>
 			<?php foreach ($portfolios as $portfolio): ?>
 				<div class="grid-item buildings plumbing interior">
 					<img alt="" src="<?= $portfolio ?>">
