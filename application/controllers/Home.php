@@ -12,16 +12,12 @@ class Home extends CI_Controller
 	{
 		$data['title'] = 'Coreangol';
 		$data['portfolios'] = array(
-			base_url('assets/images/2.2.jpg'),
-			base_url('assets/images/2.4.jpg'),
-			base_url('assets/images/2.5.jpg'),
 			base_url('assets/images/3.1.jpg'),
 			base_url('assets/images/3.2.jpg'),
 			base_url('assets/images/4.2.jpg'),
 			base_url('assets/images/4.4.jpg'),
 			base_url('assets/images/4.6.jpg'),
 			base_url('assets/images/5.4.jpg'),
-			base_url('assets/images/6.1.jpg'),
 			base_url('assets/images/7.1.jpg'),
 			base_url('assets/images/7.2.jpg'),
 		);

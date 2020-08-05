@@ -240,7 +240,6 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt=""/>
 					<h3>GESTÃO DA CONSTRUÇÃO</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -249,7 +248,6 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/11.4.jpg') ?>" alt=""/>
 					<h3>RENOVAÇÃO</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -258,7 +256,6 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.3.jpg') ?>" alt=""/>
 					<h3>ARQUITETURA</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
