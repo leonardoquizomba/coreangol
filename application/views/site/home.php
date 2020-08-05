@@ -234,7 +234,7 @@
 		</div>
 	</div>
 </section><!-- Why us end -->
-<section id="services">
+<section id="services" class="text-center">
 	<div class="container">
 		<h2>Nossos Servi&ccedil;os</h2>
 		<div class="row">
@@ -263,6 +263,7 @@
 				</div>
 			</div>
 		</div>
+		<br/>
 	</div>
 </section><!-- Services end -->
 <section id="portfolio">
