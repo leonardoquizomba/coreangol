@@ -101,10 +101,10 @@
 	<div id="carousel" class="carousel slide" data-ride="carousel">
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
-				<img src="<?= base_url('assets/images/5.2.png') ?>" alt="">
+				<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt="">
 			</div>
 			<div class="item">
-				<img src="<?= base_url('assets/images/8.2.png') ?>" alt="">
+				<img src="<?= base_url('assets/images/8.2.jpg') ?>" alt="">
 			</div>
 		</div>
 		<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -240,7 +240,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.2.png') ?>" alt=""/>
+					<img src="<?= base_url('assets/images/5.2.jpg') ?>" alt=""/>
 					<h3>GESTÃO DA CONSTRUÇÃO</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -249,7 +249,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/11.4.png') ?>" alt=""/>
+					<img src="<?= base_url('assets/images/11.4.jpg') ?>" alt=""/>
 					<h3>RENOVAÇÃO</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -258,7 +258,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="service_item">
-					<img src="<?= base_url('assets/images/5.3.png') ?>" alt=""/>
+					<img src="<?= base_url('assets/images/5.3.jpg') ?>" alt=""/>
 					<h3>ARQUITETURA</h3>
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 						magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
@@ -271,15 +271,6 @@
 <section id="portfolio">
 	<div class="container portfolio_area text-center">
 		<h2>Portfolio</h2>
-		<!--
-		<div id="filters">
-			<button class="button is-checked" data-filter="*">Mostre tudo</button>
-			<button class="button" data-filter=".buildings">Edifícios</button>
-			<button class="button" data-filter=".interior">Interior Design</button>
-			<button class="button" data-filter=".isolation">Isolation</button>
-			<button class="button" data-filter=".plumbing">Plumbing</button>
-		</div>
-		-->
 		<div class="grid">
 			<div class="grid-sizer"></div>
 			<?php foreach ($portfolios as $portfolio): ?>
