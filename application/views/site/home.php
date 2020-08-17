@@ -390,7 +390,7 @@
 						<li>
 							<a href="#portfolio">
 								<span class="fa fa-play"></span>
-								<a href="<?= base_url('assets/AGENDA-2019.pdf') ?>" target="_blank">Agenda</a>
+								<a href="<?= base_url('assets/AGENDA.pdf') ?>" target="_blank">Agenda</a>
 							</a>
 						</li>
 					</ul>
